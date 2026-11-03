@@ -1,0 +1,11 @@
+Flask>=3.0
+psycopg2-binary>=2.9
+python-dotenv>=1.0
+# dashboard
+streamlit>=1.37
+altair>=5.0
+pandas>=2.0
+# notebook analisis
+matplotlib>=3.8
+sqlalchemy>=2.0
+jupyter>=1.0
